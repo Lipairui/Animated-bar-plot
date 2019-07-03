@@ -1,2 +1,2 @@
 # Animated-bar-plot
-Generate animated bar as gif format.
+Generate animated bar plot in GIF format.
